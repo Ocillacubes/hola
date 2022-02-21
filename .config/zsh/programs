@@ -1,0 +1,8 @@
+export TERMINAL="st"
+export EDITOR="nvim"
+export BROWSER="netsurf"
+export LAUNCHER="dmenu_run"
+export MAIL_CLIENT="claws-mail"
+export VNC_CLIENT="remmina"
+export FILE_MGR="pcmanfm"
+export PASS_MGR="keepassxc"
